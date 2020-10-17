@@ -1,0 +1,10 @@
+Dataset: cifar10
+Number of classes: 10
+Device: CPU
+Model: alexnet
+Total params: 2.47M
+Criterion: CrossEntropyLoss
+Optimizer: SGD
+Learning rate: 0.1
+Momentum: 0.9
+Weight decay: 0.0001
